@@ -71,12 +71,12 @@ header {
 .projects .btn:hover {
   background: rgba(47, 48, 97, 80%);
 }
-.project-tem {
+.project-item {
   overflow: hidden;
   border-bottom: 1px dashed #343434;
   padding: 25px 0;
 }
-.porject-item img {
+.project-item img {
   float: left;
   margin-right: 20px;
 }
