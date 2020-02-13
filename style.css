@@ -26,9 +26,10 @@ a:hover {
 h1 {
   font-size: 100px;
   line-height: 1;
+    text-shadow: 2px 2px 5px black;
 }
 h2 {
-  font-size: 45px;
+  font-size: 50px;
 }
 h1, h2 {
   font-family: 'Caveat', cursive;
@@ -39,6 +40,9 @@ h1, h2 {
   width: 950px;
   margin: 0 auto;
   padding: 60px 0;
+}
+.content-wrap h2 {
+    text-shadow: 2px 2px 4px black;
 }
 
 
